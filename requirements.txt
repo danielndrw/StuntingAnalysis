@@ -1,0 +1,8 @@
+streamlit==1.39.0
+pandas
+numpy
+scikit-learn
+folium
+streamlit-folium
+plotly
+joblib
